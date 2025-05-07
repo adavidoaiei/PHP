@@ -1,3 +1,4 @@
+![alt text](https://github.com/adavidoaiei/PHP/blob/main/img.png?raw=true)
 # Contact Form with SQLite - CRUD Operations
 
 A simple contact form application built with PHP and SQLite that demonstrates CRUD (Create, Read, Update, Delete) operations. The application uses Bootstrap for styling and includes client-side JavaScript for a better user experience.
